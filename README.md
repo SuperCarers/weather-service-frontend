@@ -11,7 +11,7 @@ on a graph. The `heathrow-weatherstation.json` file contains the information on
 temperature max/min, rain fall in mm and sunshine hours. This information
 starts Jan 1958 and ends Dec 2014.
 
-![Layout](https://github.com/SuperCarers/weather-service-frontend/layout.png)
+![Layout](https://github.com/SuperCarers/weather-service-frontend/blob/master/layout.png?raw=true)
 
 
 The sketch above shows the layout and controls the end user would like in a web
